@@ -1,4 +1,5 @@
 # Tarea3_PCD
+# Dafne Tamayo León
 
 Este repositorio contiene la implementación de una API para gestionar usuarios. La API incluye cuatro endpoints que permiten crear, actualizar, obtener y eliminar usuarios en una base de datos.
 
@@ -21,7 +22,7 @@ Este repositorio contiene la implementación de una API para gestionar usuarios.
 
     ```bash
     python3 -m venv venv
-    source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
+    source venv/bin/activate 
     ```
 
 3. **Instalar las dependencias:**
